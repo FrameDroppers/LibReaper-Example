@@ -1,2 +1,2 @@
 # LibReaper-Example
-An Example for LibReaper
+A simple hello world syle example for LibReaper
